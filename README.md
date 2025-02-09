@@ -10,10 +10,7 @@ This repo tracks my progress thorugh the [Dive into Deep Learning](https://d2l.a
 📅 Planned Timeline
 I'm following a slow & steady pace, balancing this with university and German studies.
 
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1    | Row 2    |
-| Row 3    | Row 4    |
+
 Week	Topics Covered	Progress
 1-2	Introduction + Preliminaries	✅ Completed
 3-4	Neural Networks & MLPs	🔄 In Progress
