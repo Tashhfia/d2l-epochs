@@ -1,13 +1,13 @@
 # d2l-epochs - My 
 This repo tracks my progress thorugh the [Dive into Deep Learning](https://d2l.ai/index.html) book. 
 
-📌 Why This Repo?
+###📌 Why This Repo?
   - To document my understanding of each chapter i.e major "aha" moments or connections made with prior chapters
   - To experiment with PyTorch implementations provided in the book
   - To build mini-projects showcasing my learning
 
 
-📅 Planned Timeline
+###📅 Planned Timeline
 I'm following a slow & steady pace, balancing this with university and German studies.
 
 | Week | Topics Covered | Progress |
