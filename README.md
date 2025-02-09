@@ -18,4 +18,6 @@ I'm following a slow & steady pace, balancing this with university and German st
 |   | CNNs & Modern Architectures   | |
 |    | RNNs & Transformers   | |
 |   | GANs & Final Project  | |
+
+
 ✅ = Completed, 🔄 = In Progress, ⏳ = Upcoming
