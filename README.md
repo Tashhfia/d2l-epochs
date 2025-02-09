@@ -10,12 +10,12 @@ This repo tracks my progress thorugh the [Dive into Deep Learning](https://d2l.a
 📅 Planned Timeline
 I'm following a slow & steady pace, balancing this with university and German studies.
 
-
-Week	Topics Covered	Progress
-1-2	Introduction + Preliminaries	✅ Completed
-3-4	Neural Networks & MLPs	🔄 In Progress
-5-6	Training Deep Networks	⏳ Upcoming
-7-8	CNNs & Modern Architectures	⏳ Upcoming
-9-10	RNNs & Transformers	⏳ Upcoming
-11-12	GANs & Final Project	⏳ Upcoming
+| Week | Topics Covered | Progress |
+|----------|----------|----------|
+| 1 - 2   | Introduction + Preliminaries |🔄 In Progress |
+| 3 - 4   | Neural Networks & MLPs    | |
+|    | Training Deep Networks    | |
+|   | CNNs & Modern Architectures   | |
+|    | RNNs & Transformers   | |
+|   | GANs & Final Project  | |
 ✅ = Completed, 🔄 = In Progress, ⏳ = Upcoming
